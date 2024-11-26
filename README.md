@@ -9,14 +9,14 @@ These customizations include:
 - Displaying a pop-up alert showing the Total Amount of the Sales Order upon saving.
 # Features
 1. Custom Field: Delivery Mode
-  - Tracks whether the Sales Order is for Delivery or Pickup.
-  - Ensures smoother workflows based on delivery type.
+   - Tracks whether the Sales Order is for Delivery or Pickup.
+   - Ensures smoother workflows based on delivery type.
 2. Validation Rule
-  - If "Delivery Mode" is Delivery, the Shipping Address field becomes mandatory.
+   - If "Delivery Mode" is Delivery, the Shipping Address field becomes mandatory.
 3. Delivery Note Button
-  - Adds a button in the Sales Order form to generate a Delivery Note directly.
+   - Adds a button in the Sales Order form to generate a Delivery Note directly.
 4. Pop-Up Alert
-  - Displays the total amount of the Sales Order in a pop-up alert when the document is saved.
+   - Displays the total amount of the Sales Order in a pop-up alert when the document is saved.
 # Installation
 ## Prerequisites
 - An existing installation of ERPNext (v13 or higher).
@@ -58,10 +58,10 @@ These customizations include:
    - When saving a Sales Order, a pop-up alert displays the `Total Amount`.
 ## Screenshots
 1. Sales Order Form with Delivery Mode
-   - ![Custom Field](https://drive.google.com/uc?export=view&id=1-aGlxQQHSz9mg_Rjmxmd886uwf1lLFRg)
+   ![Custom Field](https://drive.google.com/uc?export=view&id=1-aGlxQQHSz9mg_Rjmxmd886uwf1lLFRg)
 2. Validation Error
-   - ![Shipping Validation Error](https://drive.google.com/uc?export=view&id=1VKy_990XinBFQLq1qjF5CW4o1iaqoDvD)
+   ![Shipping Validation Error](https://drive.google.com/uc?export=view&id=1VKy_990XinBFQLq1qjF5CW4o1iaqoDvD)
 3. Delivery Note Button
-   - ![Delivery Note Button](https://drive.google.com/uc?export=view&id=1bLgEJQBzLjXwk-wtoSGWz6vm-y2TTPzB)
+   ![Delivery Note Button](https://drive.google.com/uc?export=view&id=1bLgEJQBzLjXwk-wtoSGWz6vm-y2TTPzB)
 4. Pop-Up Alert
-   - - ![Pop-Up Alert](https://drive.google.com/uc?export=view&id=1c_0vnph874xpGkEsiaftpBuJ4yYEXm9v)
+   ![Pop-Up Alert](https://drive.google.com/uc?export=view&id=1c_0vnph874xpGkEsiaftpBuJ4yYEXm9v)
